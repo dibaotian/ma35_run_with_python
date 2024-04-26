@@ -1,0 +1,16 @@
+echo "PYAV_ROOT           "    $PYAV_ROOT
+echo "PYAV_LIBRARY        " $PYAV_LIBRARY
+echo "PYAV_PYTHON         "       $PYAV_PYTHON
+echo "PYAV_PIP            "          $PYAV_PIP
+echo "PYAV_VENV_NAME      "    $PYAV_VENV_NAME
+echo "GITHUB_ACTION       "     $GITHUB_ACTION
+echo "_PYAV_ACTIVATED     "  $_PYAV_ACTIVATED
+echo "PYAV_LIBRARY_ROOT   " $PYAV_LIBRARY_ROOT
+echo "PYAV_LIBRARY_BUILD  " $PYAV_LIBRARY_BUILD
+echo "PYAV_LIBRARY_PREFIX " $PYAV_LIBRARY_PREFIX
+echo "PYTHONPATH          " $PYTHONPATH
+echo "PKG_CONFIG_PATH     " $PKG_CONFIG_PATH
+echo "LD_LIBRARY_PATH     " $LD_LIBRARY_PATH
+echo "DYLD_LIBRARY_PATH   " $DYLD_LIBRARY_PATH
+echo ""
+echo "PATH                " $PATH
